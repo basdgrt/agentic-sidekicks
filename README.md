@@ -1,4 +1,4 @@
-# agentic-sidekicks
+# Agentic Sidekicks
 
 A curated collection of agents, skills, and tools for AI coding assistants ([Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [OpenCode](https://opencode.ai)).
 
