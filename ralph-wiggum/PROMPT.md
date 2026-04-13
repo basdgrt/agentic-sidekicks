@@ -1,26 +1,36 @@
-# Bol Claude Init
+# Update docs
 
-Take the topmost item from the file list below and apply the following refactoring:
+Update the remaining tag-reference documentation in /Users/bdegroot/Development/ip-fail-count
+to match the detail level of ADDGIFTCARD, GIFTCARDSALDO, LOGIN_INTERNATIONAL, and ASKSELLER.
 
-## Refactoring Instructions
+For each of the following tags, enhance the documentation with:
+  1. A detailed *Purpose* that explains what threats it protects against (spam, bot abuse, fraud, etc.)
+  2. An expanded *Use when* section that provides specific context about the endpoints and user actions
 
-Navigate to the topmost project from the task list below and do the following:
+## Documentation Instructions
+
+Navigate to the topmost tag from the task list below and do the following:
 
 ## Process
 
-1. Checkout the main branch of this project
-2. Pull in latest changes
-3. Create a new feature branch with the name: NOJIRA-claude-bol-init
-4. Run the bol-init skill to create or update CLAUDE.md and PROJECT.md
-5. Run the bol-commit skill to create a commit message
-6. Push the changes.
-7. Remove the completed project from the task list below and save this file.
-8. Stop.
+For each tag:
+1. Search GitLab repositories for usage examples using: glab api /search --method GET --field scope=blobs --field search="IpfcTag.<TAG_NAME>" --field per_page=20
+2. Read the code context to understand the actual use cases
+3. Update the documentation in docs/modules/ROOT/pages/tags-reference.adoc
+4. Ensure the descriptions explain both the threat model and the protected user actions
+5. Use the /bol-commit skill to commit and push changes (Use the conventional commit type "docs")
+6. Remove the completed tag from the list below and save this file.
+7. Stop.
 
 Rules:
 - Do NOT ask questions. Make all decisions yourself.
 
 When the file list below is empty (after the commit and push), reply with "DONE - STOP RALPH".
 
-## Projects to Refactor
-- [ ] ../../secdev-scripts
+## Tags to document
+- [ ] NEWUSER
+- [ ] B2BREQUESTFORM
+- [ ] BASKET_ADD_ITEM
+- [ ] FAILED_ASSESSMENT
+- [ ] INTERSOLVE
+- [ ] PASSWORD_RESET
