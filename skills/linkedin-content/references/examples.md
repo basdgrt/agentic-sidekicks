@@ -37,9 +37,11 @@ These examples demonstrate the target quality, tone, and structure for technical
 > 
 > I used to just learn the "how" of new tools. These days I dig into the "why" and the history behind them. Because sometimes the best ideas are not new. They just wait for the right problem to come back.
 > 
-> 🔴 Multi-threading fits CPU-bound work, not IO-bound services
-> 🔴 Cooperative multitasking means tasks yield control, not the OS
-> 🔴 The goal is not fake parallelism. It is not blocking on IO
+> Multi-threading fits CPU-bound work, not IO-bound services
+> 
+> Cooperative multitasking means tasks yield control, not the OS
+> 
+> The goal is not fake parallelism. It is not blocking on IO
 > 
 > What old concept deserves a comeback in modern software?
 
@@ -85,9 +87,11 @@ These examples demonstrate the target quality, tone, and structure for technical
 > 
 > Staying the expert in the lead means using AI without giving up your judgment.
 > 
-> 🔴 You own the PR, not the agent
-> 🔴 Weak tests and missed edge cases are yours to catch
-> 🔴 If you cannot explain it, do not ship it
+> You own the PR, not the agent
+> 
+> Weak tests and missed edge cases are yours to catch
+> 
+> If you cannot explain it, do not ship it
 > 
 > How do you stay the expert in the lead when using AI tools?
 
@@ -125,9 +129,11 @@ These examples demonstrate the target quality, tone, and structure for technical
 > 
 > What we're building is simple and deliberate:
 > 
-> 🔴 Selective and built to last. Small enough to protect what matters, focused enough to make impact.
-> 🔴 A place where autonomy, mastery, and purpose are the foundation.
-> 🔴 An engineering culture designed for Java and Kotlin engineers to do their best work.
+> Selective and built to last. Small enough to protect what matters, focused enough to make impact.
+> 
+> A place where autonomy, mastery, and purpose are the foundation.
+> 
+> An engineering culture designed for Java and Kotlin engineers to do their best work.
 > 
 > We're also preparing for what's next. Agentic coding is changing how we build software. We're building expertise in these tools together. Understanding them deeply, using them consciously, and shipping high-quality software that solves real problems, faster.
 > 
@@ -152,10 +158,9 @@ These examples demonstrate the target quality, tone, and structure for technical
 4. Short, scannable paragraphs
 5. Technical precision without jargon
 6. Peer-to-peer tone
-7. Red dot bullets (🔴) for key takeaways
-8. Questions that invite reflection, not forced engagement
-9. No motivational language
-10. No em dashes
+7. Questions that invite reflection, not forced engagement
+8. No motivational language
+9. No em dashes
 
 **Tone characteristics**:
 - Confident but not arrogant

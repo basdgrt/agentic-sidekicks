@@ -54,7 +54,7 @@ Generate the first draft based on the topic provided by the user.
    - **Opening**: Hook with surprising fact, bold statement, or concrete problem
    - **Context**: Explain constraints, trade-offs, or why this matters
    - **Insight**: Share the experience-backed observation or practice
-   - **Takeaway**: Key points with 🔴 bullets (2-4 points)
+   - **Takeaway**: Key points (2-4 points)
    - **Closing**: Natural ending or thought-provoking question (not forced CTA)
 
 3. **Apply tone guidelines**
@@ -71,7 +71,6 @@ Generate the first draft based on the topic provided by the user.
 
 5. **Format for LinkedIn**
    - Short paragraphs (1-3 sentences max)
-   - Use 🔴 for bullet points in takeaway section
    - No em dashes
    - White space for scanning
 
@@ -152,7 +151,6 @@ Evaluate the post against quality criteria and verify it meets the standard.
 
 7. **LinkedIn formatting**
    - Short paragraphs (1-3 sentences)?
-   - 🔴 bullets for key takeaways?
    - No em dashes?
    - Scannable white space?
 
@@ -212,7 +210,7 @@ Evaluate the post against quality criteria and verify it meets the standard.
 - Written for peers? ✓ (Assumes knowledge of code review and linting)
 - One core idea? ✓ (Pre-commit hooks for quality)
 - Correct tone? ✓ (Practical experience, calm authority)
-- LinkedIn formatting? ✓ (Short paragraphs, bullets, scannable)
+- LinkedIn formatting? ✓ (Short paragraphs, scannable)
 - North Star: Would senior engineer want to work with me? ✓ (Shows judgment, specific outcomes)
 - **Ready to publish**
 
